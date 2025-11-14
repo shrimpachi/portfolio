@@ -5,7 +5,7 @@ This repository serves as a collection of my personal and academic projects show
 
 ## Projects
 Each project is stored in a folder using the following pattern:
-<tool-or-language>_<project-name>
+&lt;tool-or-language&gt;_&lt;project-name&gt;
 This repository consists only of a small fraction of projects done. 
 Note: This portfolio includes only a selection of my projects. 
 I have additional work and experience in other tools and languages.
